@@ -5,8 +5,8 @@
 
 #tylerandjoe {
   display: block;
-  width:1280px;
-  margin: 720px auto;
+  width:384px;
+  margin: 50px auto;
 }
 
 p {
@@ -22,3 +22,5 @@ h1 {
   margin: 50px auto;
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+
