@@ -3,10 +3,17 @@
   padding:0px;
 }
 
-#tylerandjoe {
+img {
+  background-image: url("/images/tylerandjoe.JPG");
   display: block;
-  width:960px;
-  margin: 678px auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto; 
+  /*background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;*/
 }
 
 p {
