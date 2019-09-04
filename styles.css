@@ -30,10 +30,16 @@ img {
   transform: translate(-50%, -50%);
 }
 
-h1 {
-  text-align: center;
-  color: green;
-  font: 60px Monaco,"Bowlby One SC","DejaVu Sans Mono","Bitstream Vera Sans Mono",cursive;
+<head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Bowldy One SC', cursive;
+        font-size: 48px;
+      }
+    </style>
+  </head>
 }
 
 h2 {
