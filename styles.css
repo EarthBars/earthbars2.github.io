@@ -33,7 +33,7 @@ img {
 h1 {
   text-align: center;
   color: green;
-  font: 60px link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap" rel="stylesheet"
+  font: 60px Monaco,"Bowlby One SC","DejaVu Sans Mono","Bitstream Vera Sans Mono",cursive;
 }
 
 h2 {
