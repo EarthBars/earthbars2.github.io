@@ -33,6 +33,7 @@ img {
 h1 {
   text-align: center;
   color: Black;
+  font-weight: bold;
   font-family: 'Lobster', cursive;
   font: 65px Monaco, 'Lobster', cursive;
 }
