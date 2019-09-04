@@ -32,10 +32,9 @@ img {
 
 h1 {
   text-align: center;
-  color: white;
-  font-weight: bold;
+  color: Black;
   font-family: 'Lobster', cursive;
-  font: 48px Monaco, 'Lobster', cursive;
+  font: 65px Monaco, 'Lobster', cursive;
 }
 
 h2 {
