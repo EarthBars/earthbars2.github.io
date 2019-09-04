@@ -32,8 +32,8 @@ img {
 
 h1 {
   text-align: center;
-  color: red;
-  font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: green;
+  font: 60px link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap" rel="stylesheet"
 }
 
 h2 {
