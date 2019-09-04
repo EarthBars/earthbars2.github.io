@@ -90,8 +90,8 @@ li {
 }
 
 .button:hover {
-  background-color: white;
-  color: red;
+  background-color: black;
+  color: white;
 }
 
 .header {
