@@ -34,7 +34,8 @@ h1 {
   text-align: center;
   color: white;
   font-weight: bold;
-  font: 48px Lobster,"Roboto",sans-serif;
+  font-family: "Roboto", sans-serif;
+  font: 48px Monaco, 'Roboto', sans-serif;
 }
 
 h2 {
