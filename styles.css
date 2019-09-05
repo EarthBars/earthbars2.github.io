@@ -4,11 +4,29 @@
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
-.fa {
+.fa-facebook {
   padding: 60px;
   font-size: 50px;
   width: 60px;
   background-color: #134499;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-youtube {
+  padding: 60px;
+  font-size: 50px;
+  width: 60px;
+  background-color: red;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-soundcloud {
+  padding: 60px;
+  font-size: 50px;
+  width: 60px;
+  background-color: orange;
   text-align: center;
   text-decoration: none;
 }
