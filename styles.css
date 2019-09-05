@@ -130,6 +130,7 @@ h4 {
 p {
   text-align: center;
   color: white;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   font-weight: bold;
   font-family: 'Lobster', cursive;
   font: 30px Monaco, 'Lobster', cursive;
