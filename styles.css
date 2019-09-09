@@ -6,7 +6,7 @@
 
 .fa-facebook {
   padding: 60px;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 80px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   font-size: 50px;
   width: 60px;
   background-color: #134499;
@@ -16,7 +16,7 @@
 
 .fa-youtube {
   padding: 60px;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 80px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   font-size: 50px;
   width: 60px;
   background-color: red;
@@ -26,7 +26,7 @@
 
 .fa-soundcloud {
   padding: 60px;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 80px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   margin-left: 20px;
   font-size: 50px;
   width: 60px;
