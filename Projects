@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Gas House Music</title>  
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body> 
+   <div class="header">
+    <a href="https://port3.org">Port3</a>
+    
+   </div>
+  </div>
+  
+   <div class="dropdown">
+  <button class="dropbtn">About</button>
+  <div class="dropdown-content">
+    <a href="https://earthbars.github.io/">Home</a>
+    <a href="#">My Pathway</a>
+    <a href="#">Projects</a>
+   
+    </div>
+  </div>
+
+
+   
+  <img src="/images/tyandjo.jpg">
+     <div class="text">
+      <h1>Gas House Music</h1>
+      <p>By Tyler Vincent</p>
+       <br>
+       <a href="https://www.facebook.com/GasHoused/" class="fa fa-facebook"></a>
+       <a href="https://www.youtube.com/channel/UC90jg_nLtvH_iu2jGHkEfHQ" class="fa fa-youtube"></a>
+       <a href="https://soundcloud.com/vep-4" class="fa fa-soundcloud"></a>
+    
+    </div>
+ </div>
+
+</body>
+</html>
