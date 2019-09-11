@@ -40,7 +40,7 @@ body {
 }
 
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: blue;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -177,7 +177,7 @@ li {
 .header {
   overflow: hidden;
   background-color: #black;
-  background: rgba(0, 0, 0, 0);
+  background: rgba(0, 0, 0, 0.);
   padding: 20px 10px;
 }
 
