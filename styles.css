@@ -176,8 +176,8 @@ li {
 
 .header {
   overflow: hidden;
-  background-color: #134499;
-  background: rgba(0, 0, 0, 0.5);
+  background-color: #black;
+  background: rgba(0, 0, 0, 0);
   padding: 20px 10px;
 }
 
