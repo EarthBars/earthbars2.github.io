@@ -197,7 +197,7 @@ li {
 
 .header a:hover {
   background-color: black;
-  color: white;
+  color: black;
 }
 
 @media screen and (max-width: 500px) {
